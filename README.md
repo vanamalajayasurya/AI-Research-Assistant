@@ -194,7 +194,4 @@ This project is licensed under the [MIT License](LICENSE).
 **Vanamala Jayasurya**
 Computer Science (Data Science) • Hyderabad, India
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-
 ⭐ If you found this project useful, consider giving it a star!
